@@ -53,7 +53,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Perfectie"
           }
         },
         "text": {
@@ -76,6 +76,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-stephan-seeber-1054218_1.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
