@@ -9,7 +9,7 @@
             "type": "announcement",
             "settings": {
               "text": "Nu 50% korting mis het niet!",
-              "color_scheme": "accent-1",
+              "color_scheme": "inverse",
               "link": ""
             }
           }
