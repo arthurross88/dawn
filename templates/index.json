@@ -36,8 +36,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "collection": "",
+        "title": "Meest verkochte producten",
+        "collection": "horloges",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": false,
