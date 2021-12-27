@@ -81,11 +81,28 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "opinew_review_carousel": {
+      "type": "apps",
+      "blocks": {
+        "opinew-carousel-widget": {
+          "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/carousel\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "opinew-carousel-widget"
+      ],
+      "settings": {
+        "include_margins": false
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
-    "image_text"
+    "image_text",
+    "opinew_review_carousel"
   ]
 }
