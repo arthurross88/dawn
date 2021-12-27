@@ -65,7 +65,8 @@
             </div>
           </div>
         {%- else -%}
-          <div class="card__content"><h2 class="card__text h2">{{ product_card_product.title }}</h2></div>
+          <div class="card__content"><h2 class="card__text h2">{{ product_card_product.title }}</h2>
+<div class='opinew-stars-plugin-product-list'>{% render 'opinew_review_stars_lists' product:product_card_product %}</div></div>
         {%- endif -%}
 
         <div class="card__badge">
@@ -93,6 +94,7 @@
           <span class="card-information__text h5">
             {{ product_card_product.title | escape }}
           </span>
+          <div class='opinew-stars-plugin-product-list'>{% render 'opinew_review_stars_lists' product:product_card_product %}</div>
         {%- endif -%}
 
         {% comment %} TODO: metafield {% endcomment %}
