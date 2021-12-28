@@ -9,7 +9,7 @@
             "type": "announcement",
             "settings": {
               "text": "Nu 50% korting, mis het niet! GRATIS VERZENDKOSTEN",
-              "color_scheme": "inverse",
+              "color_scheme": "background-2",
               "link": ""
             }
           }
