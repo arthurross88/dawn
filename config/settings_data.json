@@ -1,6 +1,7 @@
 {
   "current": {
     "colors_accent_2": "#cd14ed",
+    "sale_badge_color_scheme": "accent-1",
     "favicon": "shopify:\/\/shop_images\/kristal.png",
     "sections": {
       "announcement-bar": {
